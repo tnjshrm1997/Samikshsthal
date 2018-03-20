@@ -88,7 +88,10 @@ The tourist can give us suggestions for optional feedback and with that, we will
 <li>Natural Processing Language(NLP)</li>
 </ol>
 
-
+<br>
+<b>Download APK: </b>https://drive.google.com/a/srmuniv.edu.in/file/d/1Pnoyoyv3XSSalcLmK3KBLRSEZDoB0pMV/view?usp=drivesdk
+<br>
+<b>YouTube: </b>https://www.youtube.com/watch?v=lSOoIkV3zxs
 
 
 
