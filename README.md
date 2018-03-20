@@ -74,7 +74,6 @@ The tourist can give us suggestions for optional feedback and with that, we will
 
 
 
-<ul><li><b>ARCHITECTURE:</b></li></ul><br><img src="https://image.ibb.co/mnk37x/Capture.png" alt="Capture" border="0">
 
 
 <ul><li><b>TECH STACK:</li></ul></b>
